@@ -1,2 +1,3 @@
-## Materi Meetup Rust Indonesia
-Kumpulan materi-materi meet Rust Indonesia.
+# Materi Meetup Rust Indonesia
+
+Kumpulan materi-materi meetup Rust Indonesia.
