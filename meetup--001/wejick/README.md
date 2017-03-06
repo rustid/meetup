@@ -1,1 +1,4 @@
-# Konten presentasi Ibnu Gian Giovanni
+# Konten presentasi Gian Giovani
+
+wejick.wordpress.com
+wejick -et- gmail -doot- com
