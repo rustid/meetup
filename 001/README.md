@@ -1,4 +1,7 @@
-![Poster](images/poster-03.png)
+![Poster](poster.png)
+
+# Judul
+Rust Programming Language for Everyone
 
 # Narasumber
 
@@ -7,17 +10,20 @@
 3. Gian Giovani [@wejick](https://github.com/wejick) (Search Engine - Elastic Search di Rust)
 4. Imam Digmi [@imamdigmi](https://github.com/imamdigmi) (Konsep Dasar dan Getting Started)
 
-Silahkan melihat ke masing-masing direktori untuk melihat slide dan mungkin juga contoh implementasi dari presentasi masing-masing presenter.
+> Silahkan melihat ke masing-masing direktori untuk melihat slide dan mungkin juga contoh implementasi dari presentasi masing-masing presenter.
+
+# Moderator
+
+Pipin Irwandi
 
 # Tempat
 
-Padepokan ASA - Many thanks untuk mas Eki dan kru Padepokan ASA Wedomartani. 
+Padepokan ASA - Many thanks untuk mas Eki dan kru Padepokan ASA Wedomartani.
 
 # Waktu
 
-Sabtu, 4 Maret 2017 - 14:30 sampai 17:30.
+Sabtu, 4 Maret 2017 - 14:30 s/d 17:30.
 
 # Proposal Meetup
 
 Terima kasih untuk KPLI - mas Pipin Irwandi - yang banyak membantu. [Proposal - format ODT](ProposalMeetupRustId2017.odt).
-
