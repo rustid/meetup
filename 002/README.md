@@ -1,4 +1,4 @@
-![Poster](poster.png)
+![Poster](images/poster.png)
 
 # Judul
 Level Up Your Knowledge on Rust
