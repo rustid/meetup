@@ -1,3 +1,11 @@
+# Rust ID
+## Telegram Group :
+https://t.me/rustindonesia
+## Github Organization :
+https://github.com/rustid
+## Docs :
+https://www.rust-lang.org/id-ID/documentation.html
+
 # Materi Meetup Rust Indonesia
 
 Kumpulan materi-materi meetup Rust Indonesia.
