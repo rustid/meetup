@@ -27,3 +27,7 @@ Sabtu, 4 Maret 2017 - 14:30 s/d 17:30.
 # Proposal Meetup
 
 Terima kasih untuk KPLI - mas Pipin Irwandi - yang banyak membantu. [Proposal - format ODT](ProposalMeetupRustId2017.odt).
+
+# Video
+[![Thumbnail](https://i.ytimg.com/vi/KBvUEqSvvw0/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLqa6ofmyqMwYkSD4Ca9ntZ64YX1T2PoN_)
+> Klik gambar untuk membuka playlist di youtube.
