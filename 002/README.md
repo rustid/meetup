@@ -10,7 +10,7 @@ Level Up Your Knowledge on Rust
 3. Yuri Setiantoko [@zerosign](https://github.com/zerosign) (Apa yang anda bisa lakukan dengan Rust dalam 15 menit)
 4. Aldo Ridhoni [@aldoridhoni](https://github.com/aldoridhoni) (Mendalami tipe data primitif di Rust)
 5. Wijaya Adhisurya [@wijaya_as](https://github.com/wijaya_as) (Penanganan error C++ ke Rust dan OOP Rust)
-6. Rizky Ariestiyansyah [@ariestiyansyah](https://github.com/ariestiyansyah) (Mozilla <3 Rust)
+6. Rizky Ariestiyansyah [@ariestiyansyah](https://github.com/ariestiyansyah) (Mozilla <3 Rust Future of Systems Programming)
 
 > Silahkan melihat ke masing-masing direktori untuk melihat slide dan mungkin juga contoh implementasi dari presentasi masing-masing presenter.
 

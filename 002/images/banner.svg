@@ -125,11 +125,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="2051.0182"
-     inkscape:cy="564.37552"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1727.8445"
+     inkscape:cy="799.10427"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5097"
      showgrid="false"
      units="px"
      showguides="true"
@@ -945,7 +945,13 @@
            y="-581.30164"
            x="437.15228"
            sodipodi:role="line"
-           style="stroke-width:1.89733958">Mozilla &lt;3 Rust</tspan>
+           style="stroke-width:1.89733958">Mozilla &lt;3 Rust.</tspan>
+        <tspan
+           y="-568.6355"
+           x="437.15228"
+           sodipodi:role="line"
+           style="stroke-width:1.89733958"
+           id="tspan4649">Future of Systems Programming</tspan>
       </text>
       <text
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.71432114px;font-family:'Cooper Hewitt';-inkscape-font-specification:CooperHewitt-Bold;writing-mode:lr-tb;fill:#221f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.89733958"
