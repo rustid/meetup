@@ -1,0 +1,6 @@
+[package]
+name = "hello-word"
+version = "0.1.0"
+authors = ["anak10thn"]
+
+[dependencies]
