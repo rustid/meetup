@@ -1,0 +1,3 @@
+[submodule "002/zerosign/central-rust"]
+	path = 002/zerosign/central-rust
+	url = https://github.com/central-labs/central-rust
